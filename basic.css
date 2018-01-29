@@ -45,7 +45,8 @@ p {
     background-color: #88d8b0;
 }
 
-.grid-page > div {
+.grid-page > div,
+.header > div {
     color: #ffeead;
     display: -webkit-box;
     display: -ms-flexbox;
